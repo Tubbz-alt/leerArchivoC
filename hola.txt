@@ -1,2 +1,2 @@
-Hola, este es un archivo de texto.
-Saludos ;V .
+Hola, este es un archivo de texto
+Este es un archivo
